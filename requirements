@@ -10,4 +10,4 @@ plotly
 matplotlib
 category_encoders
 psycopg2-binary
-plotly==5.24.1
+
